@@ -55,5 +55,7 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 Prompt engineering is about giving instructions that are clear, concise, and specific, which leads the AI to give optimal results. Prompt engineering is important because vague instructions lead to vague results that are not suitable.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 Vague prompt: Tell me about Donald J Trump's election victory
+
 Clear Prompt: What are four factors that helped Donald J Trump win the 2024 election
